@@ -1,4 +1,4 @@
-# NN-University.of.Toronto
+# NN-University.of.Toronto :negative_squared_cross_mark:
 Neural Networks for Machine Learning - by University of Toronto - Coursera
 
 ## Week01
